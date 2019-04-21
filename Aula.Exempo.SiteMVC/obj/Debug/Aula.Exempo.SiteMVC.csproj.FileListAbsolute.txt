@@ -1,0 +1,252 @@
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\ApplicationInsights.config
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\csc.exe
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\csc.exe.config
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\csc.rsp
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\csi.exe
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\csi.rsp
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.AppContext.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\vbc.exe
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\vbc.exe.config
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\vbc.rsp
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\VBCSCompiler.exe
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exempo.SiteMVC.dll.config
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exempo.SiteMVC.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exempo.SiteMVC.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Antlr3.Runtime.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.BO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.VO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.Web.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.WindowsServer.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.ApplicationInsights.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Newtonsoft.Json.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Sistema.Arquitetura.Library.Core.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Sistema.Arquitetura.Library.Data.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Helpers.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Mvc.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Optimization.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Razor.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Deployment.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Razor.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\WebGrease.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.DAO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.BO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.VO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Sistema.Arquitetura.Library.Core.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Sistema.Arquitetura.Library.Data.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Helpers.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Mvc.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Optimization.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Razor.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Deployment.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Razor.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Antlr3.Runtime.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Newtonsoft.Json.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.ApplicationInsights.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.WindowsServer.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.Web.xml
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.DAO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Razor.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.WebPages.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\obj\Debug\Aula.Exempo.SiteMVC.csprojResolveAssemblyReference.cache
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\obj\Debug\Aula.Exempo.SiteMVC.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exempo.SiteMVC\obj\Debug\Aula.Exempo.SiteMVC.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\obj\Debug\Aula.Exempo.SiteMVC.csprojResolveAssemblyReference.cache
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\obj\Debug\Aula.Exempo.SiteMVC.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\obj\Debug\Aula.Exempo.SiteMVC.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\ApplicationInsights.config
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\csc.exe
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\csc.exe.config
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\csc.rsp
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\csi.exe
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\csi.rsp
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.AppContext.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\vbc.exe
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\vbc.exe.config
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\vbc.rsp
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\VBCSCompiler.exe
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exempo.SiteMVC.dll.config
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exempo.SiteMVC.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exempo.SiteMVC.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Antlr3.Runtime.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.BO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.VO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.Web.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.WindowsServer.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.ApplicationInsights.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Newtonsoft.Json.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Sistema.Arquitetura.Library.Core.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Sistema.Arquitetura.Library.Data.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Helpers.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Mvc.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Optimization.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Razor.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Deployment.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Razor.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\WebGrease.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.DAO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.BO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.VO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Sistema.Arquitetura.Library.Core.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Sistema.Arquitetura.Library.Data.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Helpers.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Mvc.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Optimization.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.Razor.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Deployment.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Razor.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Antlr3.Runtime.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Newtonsoft.Json.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.ApplicationInsights.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.WindowsServer.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Microsoft.AI.Web.xml
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.DAO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Razor.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.WebPages.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\ApplicationInsights.config
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\csc.exe
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\csc.exe.config
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\csc.rsp
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\csi.exe
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\csi.rsp
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\System.AppContext.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\vbc.exe
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\vbc.exe.config
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\vbc.rsp
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\VBCSCompiler.exe
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Aula.Exempo.SiteMVC.dll.config
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Aula.Exempo.SiteMVC.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Aula.Exempo.SiteMVC.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Antlr3.Runtime.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.BO.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.VO.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.AI.Web.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.AI.WindowsServer.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.ApplicationInsights.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Newtonsoft.Json.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.Helpers.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.Mvc.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.Optimization.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.Razor.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Razor.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\WebGrease.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.DAO.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.BO.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.VO.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Sistema.Arquitetura.Library.Core.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Sistema.Arquitetura.Library.Data.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.Helpers.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.Mvc.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.Optimization.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.Razor.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\System.Web.WebPages.Razor.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Antlr3.Runtime.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Newtonsoft.Json.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.ApplicationInsights.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.AI.WindowsServer.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Microsoft.AI.Web.xml
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\Aula.Exemplo.DAO.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.Razor.resources.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.WebPages.resources.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\obj\Debug\Aula.Exempo.SiteMVC.csprojAssemblyReference.cache
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\obj\Debug\Aula.Exempo.SiteMVC.csproj.CoreCompileInputs.cache
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\obj\Debug\Aula.Exempo.SiteMVC.csproj.CopyComplete
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\obj\Debug\Aula.Exempo.SiteMVC.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exempo.SiteMVC\obj\Debug\Aula.Exempo.SiteMVC.pdb

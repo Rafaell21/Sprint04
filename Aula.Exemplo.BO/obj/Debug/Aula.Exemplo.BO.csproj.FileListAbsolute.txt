@@ -1,0 +1,39 @@
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\obj\Debug\Aula.Exemplo.BO.csprojResolveAssemblyReference.cache
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.BO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.BO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.DAO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.VO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Sistema.Arquitetura.Library.Core.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Sistema.Arquitetura.Library.Data.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.DAO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.VO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Sistema.Arquitetura.Library.Core.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Sistema.Arquitetura.Library.Data.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\obj\Debug\Aula.Exemplo.BO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula07\fonte\Aula.Exemplo\Aula.Exemplo.BO\obj\Debug\Aula.Exemplo.BO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.BO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.BO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.DAO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.VO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Sistema.Arquitetura.Library.Core.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Sistema.Arquitetura.Library.Data.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.DAO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.VO.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Sistema.Arquitetura.Library.Core.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\bin\Debug\Sistema.Arquitetura.Library.Data.pdb
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\obj\Debug\Aula.Exemplo.BO.csprojResolveAssemblyReference.cache
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\obj\Debug\Aula.Exemplo.BO.dll
+E:\Faculdade\2019_1\lab desenv 2\aula15\Aula.Exemplo\Aula.Exemplo.BO\obj\Debug\Aula.Exemplo.BO.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.BO.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.BO.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.DAO.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.VO.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.DAO.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\bin\Debug\Aula.Exemplo.VO.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\bin\Debug\Sistema.Arquitetura.Library.Core.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\bin\Debug\Sistema.Arquitetura.Library.Data.pdb
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\obj\Debug\Aula.Exemplo.BO.csprojAssemblyReference.cache
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\obj\Debug\Aula.Exemplo.BO.csproj.CoreCompileInputs.cache
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\obj\Debug\Aula.Exemplo.BO.csproj.CopyComplete
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\obj\Debug\Aula.Exemplo.BO.dll
+D:\Aula.Exemplo_136-636905185418489001(1)\Aula.Exemplo.BO\obj\Debug\Aula.Exemplo.BO.pdb
